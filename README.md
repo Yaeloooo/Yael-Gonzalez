@@ -6,12 +6,12 @@
 
 ---
 
-## 👋 Hola, soy Yael González
+##  Hola, soy Yael González
 ### Desarrollador Web | Guadalajara, Jalisco 🇲🇽
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,17 +23,17 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Tecnologías |
 |----------|------------|
-| 🏠 Sitio Bienes Raíces | Laravel, SQL, Tailwind |
-| ✂️ Sistema Citas Barbería | Laravel, JS, SQL |
-| 📝 Blog Laravel | Laravel, SASS, MySQL |
-| 📋 Registro Bienes Raíces | Laravel, SQL, Git |
+|  Sitio Bienes Raíces | Laravel, SQL, Tailwind |
+|  Sistema Citas Barbería | Laravel, JS, SQL |
+|  Blog Laravel | Laravel, SASS, MySQL |
+|  Registro Bienes Raíces | Laravel, SQL, Git |
 
 ---
 
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yaeloooo&show_icons=true&them
+
